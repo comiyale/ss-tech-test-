@@ -7,7 +7,7 @@ npm run serve
 npm run test:unit
 
 ## My solution
-https://github.com/comiyale/ss-tech-test-
+https://github.com/comiyale/ss-tech-test-/tree/master/src/question-2/ss-vue-tech-test-master
 
 
 ## Question Two
