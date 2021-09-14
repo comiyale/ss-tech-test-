@@ -2,9 +2,9 @@
 Using the vue project
 Renamed the .env.example file to .env before
 
-npm install
-npm run serve
-npm run test:unit
+# npm install
+# npm run serve
+# npm run test:unit
 
 ## My solution
 https://github.com/comiyale/ss-tech-test-/tree/master/src/question-2/ss-vue-tech-test-master
